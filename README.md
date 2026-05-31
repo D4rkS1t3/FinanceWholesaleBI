@@ -54,8 +54,8 @@ Suma wszystkich zaangażowanych środków finansowych w ramach przyznanych finan
 ##### Wskaźnik NPL (27,15%):
 Kluczowa metryka ryzyka (Non-Performing Loans). Pokazuje, jaki procent całkowitego zadłużenia stanowią transakcje zaklasyfikowane jako "Czerwone (Zagrożone)" (powyżej 30 dni opóźnienia).
 #### Wskaźnik NPL (%) wg typu produktu:
-Wykres pierścieniowy wskazujący źródło generowania strat. Najwyższy poziom ryzykownych należności generuje Kredyt Gotówkowy (65,03%), w dalszej kolejności Leasing Auto (50,00%) oraz najbezpieczniejszy Faktoring (10,90%).
+Wykres pierścieniowy wskazujący źródło generowania strat. Najwyższy poziom ryzykownych należności generuje Faktoring (65,03%), w dalszej kolejności Leasing Auto (50,00%) oraz najbezpieczniejszy Kredyt Gotówkowy (10,90%).
 #### Wskaźnik NPL (%) wg miesięcy:
 Wykres liniowy trendu, ilustrujący gwałtowny wzrost toksycznych aktywów od miesiąca 1 do punktu szczytowego w miesiącu 4 (osiągającego 100% dla realizowanych transakcji), po czym następuje pożądany spadek w miesiącu 5.
 #### Struktura Zadłużenia wg Miast i Segmentów Ryzyka:
-Wykres kolumnowy skumulowany prezentujący jakość portfela w ujęciu geograficznym. Pozwala natychmiast zidentyfikować rynki krytyczne (np. Wrocław, Katowice, Łódź, gdzie 100% wolumenu zadłużenia stanowią klienci z grupy zagrożonej) w opozycji do rynków bezpiecznych (np. Gdańsk, Poznań, Warszawa - 100% portfela stabilnego).
+Wykres kolumnowy skumulowany prezentujący jakość portfela w ujęciu geograficznym. Pozwala natychmiast zidentyfikować rynki krytyczne (np. Katowice, Gdynia gdzie 100% wolumenu zadłużenia stanowią klienci z grupy zagrożonej) w opozycji do rynków bezpiecznych (np. Wrocław, Gdańsk, Łódź - 100% portfela stabilnego).
